@@ -1,3 +1,5 @@
+; 0.intro
+
 .model small   ; memory model. It could be TINY, SMALL, MEDIUM, COMPACT and LARGE/HUGE.
 .stack ; Creates the stack (segment). The default size is 1kbyte.
 .data ; Creates the data segment

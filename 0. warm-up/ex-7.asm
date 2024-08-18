@@ -1,3 +1,5 @@
+; 7. show-char
+
 org 100h
 
 mov ah,0eh

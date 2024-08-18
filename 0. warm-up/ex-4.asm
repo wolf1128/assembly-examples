@@ -1,4 +1,4 @@
-; sum of the elements of an array (ii)                                         
+; 4. sum of the elements of an array (ii)                                         
 
 DIM EQU 15 ; array size
 

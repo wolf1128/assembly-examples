@@ -1,4 +1,4 @@
-; sum of two values
+; 2.sum-of-two-values
 
 .MODEL small
 .STACK

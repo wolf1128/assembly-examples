@@ -1,4 +1,4 @@
-; sum of the elements of an array (i)
+; 3. sum of the elements of an array (i)
 
 .MODEL small
 .STACK

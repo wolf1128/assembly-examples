@@ -1,4 +1,4 @@
-; Writing a value in a memory cell
+; 1. Writing a value in a memory cell
 
 .MODEL small
 .STACK
